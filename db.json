@@ -5,15 +5,10 @@
 		{ "id": 3, "title": "Post 3" }
 	],
 	"comments": [
-		{ "id": 1, "body": "some comment", "postId": 1 },
-		{ "id": 2, "body": "some comment", "postId": 1 }
+		{ "id": 1, "text": "New images for Stay Vulnerable Liquid Eyeshadow product avail...", "seen": false },
+		{ "id": 2, "text": "Exciting giveaway announcement coming soon!", "seen": false }
 	],
 	"profile": {
 		"name": "typicode"
-	},
-	"notifications": [
-		{ "text": "New images for Stay Vulnerable Liquid Eyeshadow product avail...", "seen": false },
-		{ "text": "Exciting giveaway announcement coming soon!","seen": true },
-		{ "text": "Check out our latest blog post on makeup trends!", "seen": false }
-	]
+	}
 }
