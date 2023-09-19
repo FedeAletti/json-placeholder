@@ -6,7 +6,8 @@
 	],
 	"notifications": [
 		{ "id": 1, "text": "New images for Stay Vulnerable Liquid Eyeshadow product avail...", "seen": false },
-		{ "id": 2, "text": "Exciting giveaway announcement coming soon!", "seen": false }
+		{ "id": 2, "text": "Sales!!!", "seen": true },
+		{ "id": 3, "text": "Exciting giveaway announcement coming soon!", "seen": false }
 	],
 	"notifications2": []
 }
